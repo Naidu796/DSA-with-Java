@@ -1,2 +1,4 @@
 # DSA-with-Java
-This repository is a comprehensive collection of Data Structures and Algorithms implemented in Java. It is designed to help learners and developers strengthen their understanding of DSA concepts through practical code examples and problem-solving techniques.
+# Java Basics Repository  
+This repository contains fundamental Java programs and examples to help beginners understand core Java concepts. Topics include variables, data types, loops, arrays, object-oriented programming, and more. Each file is well-documented with comments for easy learning. Feel free to explore, use, and contribute!  
+
